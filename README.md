@@ -38,7 +38,7 @@ Full-stack engineer in Calgary, AB. I build with TypeScript and Python — mostl
 
 **Day-to-day:** TypeScript, Python, Next.js, React, Node.js, FastAPI, PostgreSQL, Supabase, Prisma
 
-**AI/ML:** OpenAI SDK, Anthropic SDK, RAG pipelines, embeddings, agent frameworks
+**AI/ML:** OpenAI SDK, Anthropic SDK, RAG pipelines, sentence-transformers, Ollama
 
 **Infra:** Vercel, Docker, SQLite, Redis
 
