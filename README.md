@@ -19,6 +19,7 @@ Recent open PRs:
 
 | Project | PR | What it fixed |
 |---|---|---|
+| **withastro/astro** | [#16017](https://github.com/withastro/astro/pull/16017) | getImage error message during astro sync |
 | **openai/openai-agents-python** | [#2725](https://github.com/openai/openai-agents-python/pull/2725) | Race condition in SQLAlchemy session writes |
 | **openai/openai-agents-python** | [#2710](https://github.com/openai/openai-agents-python/pull/2710) | Streaming docs for cancel-after-turn |
 | **withastro/astro** | [#15927](https://github.com/withastro/astro/pull/15927) | Language server deferring HTML completions to TS |
