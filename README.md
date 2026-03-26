@@ -1,10 +1,10 @@
 # Hey, I'm Felmon
 
-Full-stack engineer in Calgary, AB. I build with TypeScript and Python — mostly AI tooling, web infrastructure, and developer tools. I contribute upstream fixes to the open-source projects I actually use.
+Independent full-stack engineer in Calgary, AB. I build with TypeScript and Python, mostly AI tooling, developer tools, and web infrastructure. I contribute upstream fixes to the open-source projects I actually use.
 
-## Currently working on
+## Current OSS work
 
-8 open pull requests across major OSS projects:
+Recent open PRs:
 
 - [fix(browser): restore setupWorker lifecycle](https://github.com/mswjs/msw/pull/2682) — **mswjs/msw**
 - [feat: add long-term chunk geometry caching](https://github.com/zardoy/minecraft-web-client/pull/529) — **minecraft-web-client** (+1896/-31)
@@ -15,7 +15,7 @@ Full-stack engineer in Calgary, AB. I build with TypeScript and Python — mostl
 - [Fix false positive missing-content audit for hidden anchors](https://github.com/withastro/astro/pull/16016) — **withastro/astro**
 - [fix: initialize safety replay test state before segment setup](https://github.com/commaai/opendbc/pull/3207) — **commaai/opendbc**
 
-## Merged contributions
+## Selected merged contributions
 
 | Project | PR | What it fixed |
 |---|---|---|
