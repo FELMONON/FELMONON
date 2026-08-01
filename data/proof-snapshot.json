@@ -1,0 +1,146 @@
+{
+  "schemaVersion": 1,
+  "verifiedAt": "2026-08-01",
+  "sources": {
+    "upstreamSearch": "https://github.com/search?q=author%3Afelmonon+is%3Apr+is%3Amerged+-user%3Afelmonon&type=pullrequests",
+    "mswContributors": "https://api.github.com/repos/felmonon/msw-inspector/contributors",
+    "npm": "https://registry.npmjs.org/msw-inspector-cli/latest",
+    "pypi": "https://pypi.org/pypi/agent-reliability-harness/json"
+  },
+  "summary": {
+    "upstreamMerges": 14,
+    "upstreamRepositories": 7,
+    "upstreamOrganizations": 5,
+    "mswInspectorForks": 5,
+    "mswInspectorOutsideHumanContributors": 5,
+    "mswInspectorNpmVersion": "0.3.2",
+    "agentReliabilityHarnessPypiVersion": "0.2.2"
+  },
+  "upstreamMerges": [
+    {
+      "repository": "commaai/opendbc",
+      "number": 3052,
+      "title": "car tests: cache hypothesis strategies",
+      "url": "https://github.com/commaai/opendbc/pull/3052",
+      "mergedAt": "2026-01-27T05:00:38Z"
+    },
+    {
+      "repository": "google/adk-js",
+      "number": 219,
+      "title": "fix(devtools): support native addon agent deps",
+      "url": "https://github.com/google/adk-js/pull/219",
+      "mergedAt": "2026-03-27T20:58:35Z"
+    },
+    {
+      "repository": "google/benchmark",
+      "number": 2154,
+      "title": "docs: document benchmark_min_time CLI forms",
+      "url": "https://github.com/google/benchmark/pull/2154",
+      "mergedAt": "2026-03-26T09:51:33Z"
+    },
+    {
+      "repository": "mswjs/msw",
+      "number": 2669,
+      "title": "fix(node): avoid open handles for infinite delays",
+      "url": "https://github.com/mswjs/msw/pull/2669",
+      "mergedAt": "2026-03-15T15:02:24Z"
+    },
+    {
+      "repository": "mswjs/msw",
+      "number": 2676,
+      "title": "fix: ensure `RequestHandler` type is accepted in setup functions",
+      "url": "https://github.com/mswjs/msw/pull/2676",
+      "mergedAt": "2026-03-19T17:34:04Z"
+    },
+    {
+      "repository": "openai/openai-agents-python",
+      "number": 2710,
+      "title": "docs: clarify cancel-after-turn streaming guidance",
+      "url": "https://github.com/openai/openai-agents-python/pull/2710",
+      "mergedAt": "2026-03-20T03:01:49Z"
+    },
+    {
+      "repository": "openai/openai-agents-python",
+      "number": 2725,
+      "title": "fix(memory): make SQLAlchemySession first writes race-safe",
+      "url": "https://github.com/openai/openai-agents-python/pull/2725",
+      "mergedAt": "2026-03-20T01:04:22Z"
+    },
+    {
+      "repository": "openai/openai-agents-python",
+      "number": 3114,
+      "title": "fix(mcp): isolate merged tool metadata",
+      "url": "https://github.com/openai/openai-agents-python/pull/3114",
+      "mergedAt": "2026-05-05T00:41:09Z"
+    },
+    {
+      "repository": "openai/openai-node",
+      "number": 1795,
+      "title": "feat(realtime): support sideband call_id connections",
+      "url": "https://github.com/openai/openai-node/pull/1795",
+      "mergedAt": "2026-06-23T23:06:52Z"
+    },
+    {
+      "repository": "withastro/astro",
+      "number": 15908,
+      "title": "fix(language-server): rewrite Astro component auto-import names",
+      "url": "https://github.com/withastro/astro/pull/15908",
+      "mergedAt": "2026-04-27T10:53:29Z"
+    },
+    {
+      "repository": "withastro/astro",
+      "number": 15927,
+      "title": "fix(language-server): defer HTML expression completions to TS",
+      "url": "https://github.com/withastro/astro/pull/15927",
+      "mergedAt": "2026-03-16T14:44:54Z"
+    },
+    {
+      "repository": "withastro/astro",
+      "number": 16016,
+      "title": "Fix false positive missing-content audit for hidden anchors",
+      "url": "https://github.com/withastro/astro/pull/16016",
+      "mergedAt": "2026-06-02T14:44:17Z"
+    },
+    {
+      "repository": "withastro/astro",
+      "number": 16017,
+      "title": "Fix getImage error message during astro sync",
+      "url": "https://github.com/withastro/astro/pull/16017",
+      "mergedAt": "2026-03-25T02:39:34Z"
+    },
+    {
+      "repository": "withastro/astro",
+      "number": 16018,
+      "title": "Fix defineLiveCollection interface loader typing",
+      "url": "https://github.com/withastro/astro/pull/16018",
+      "mergedAt": "2026-05-01T15:22:32Z"
+    }
+  ],
+  "mswInspectorOutsideHumanContributors": [
+    {
+      "login": "Cryptoteep",
+      "contributions": 3,
+      "url": "https://github.com/Cryptoteep"
+    },
+    {
+      "login": "Diyaaa-12",
+      "contributions": 1,
+      "url": "https://github.com/Diyaaa-12"
+    },
+    {
+      "login": "brain-marchine",
+      "contributions": 2,
+      "url": "https://github.com/brain-marchine"
+    },
+    {
+      "login": "kingrubic",
+      "contributions": 2,
+      "url": "https://github.com/kingrubic"
+    },
+    {
+      "login": "lovewave02",
+      "contributions": 3,
+      "url": "https://github.com/lovewave02"
+    }
+  ]
+}

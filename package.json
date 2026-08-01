@@ -1,0 +1,15 @@
+{
+  "name": "felmonon-profile",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "generate": "node scripts/generate-profile.mjs",
+    "check:generated": "node scripts/generate-profile.mjs --check",
+    "check:profile": "node scripts/check-profile.mjs",
+    "test": "npm run check:generated && npm run check:profile"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

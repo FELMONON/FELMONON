@@ -1,0 +1,130 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="480" viewBox="0 0 1200 480" role="img" aria-labelledby="title desc">
+  <title id="title">Felmon Fekadu engineering flight recorder</title>
+  <desc id="desc">I build software that leaves evidence. A trace flows from input through observation and verification to shipping, while a regression is blocked by a policy gate.</desc>
+  <style>
+    @keyframes signal-travel {
+      0%, 12% { transform: translateX(0); opacity: 0; }
+      20% { opacity: 1; }
+      72% { transform: translateX(300px); opacity: 1; }
+      86%, 100% { transform: translateX(300px); opacity: 0; }
+    }
+    @keyframes gate-breathe {
+      0%, 100% { opacity: 0.72; }
+      50% { opacity: 1; }
+    }
+    @media (prefers-reduced-motion: no-preference) {
+      .signal-pulse { animation: signal-travel 5.2s cubic-bezier(.4,0,.2,1) infinite; }
+      .policy-gate { animation: gate-breathe 2.6s ease-in-out infinite; }
+    }
+  </style>
+  <rect width="1200" height="480" fill="#0B0F14"/>
+  <path d="M80 0V480" stroke="#27313C" stroke-width="1" opacity="0.28"/>
+<path d="M160 0V480" stroke="#27313C" stroke-width="1" opacity="0.28"/>
+<path d="M240 0V480" stroke="#27313C" stroke-width="1" opacity="0.28"/>
+<path d="M320 0V480" stroke="#27313C" stroke-width="1" opacity="0.28"/>
+<path d="M400 0V480" stroke="#27313C" stroke-width="1" opacity="0.28"/>
+<path d="M480 0V480" stroke="#27313C" stroke-width="1" opacity="0.28"/>
+<path d="M560 0V480" stroke="#27313C" stroke-width="1" opacity="0.28"/>
+<path d="M640 0V480" stroke="#27313C" stroke-width="1" opacity="0.28"/>
+<path d="M720 0V480" stroke="#27313C" stroke-width="1" opacity="0.28"/>
+<path d="M800 0V480" stroke="#27313C" stroke-width="1" opacity="0.28"/>
+<path d="M880 0V480" stroke="#27313C" stroke-width="1" opacity="0.28"/>
+<path d="M960 0V480" stroke="#27313C" stroke-width="1" opacity="0.28"/>
+<path d="M1040 0V480" stroke="#27313C" stroke-width="1" opacity="0.28"/>
+<path d="M1120 0V480" stroke="#27313C" stroke-width="1" opacity="0.28"/>
+<path d="M0 60H1200" stroke="#27313C" stroke-width="1" opacity="0.28"/>
+<path d="M0 120H1200" stroke="#27313C" stroke-width="1" opacity="0.28"/>
+<path d="M0 180H1200" stroke="#27313C" stroke-width="1" opacity="0.28"/>
+<path d="M0 240H1200" stroke="#27313C" stroke-width="1" opacity="0.28"/>
+<path d="M0 300H1200" stroke="#27313C" stroke-width="1" opacity="0.28"/>
+<path d="M0 360H1200" stroke="#27313C" stroke-width="1" opacity="0.28"/>
+<path d="M0 420H1200" stroke="#27313C" stroke-width="1" opacity="0.28"/>
+  <rect x="14" y="14" width="1172" height="452" fill="none" stroke="#59636E"/>
+  <path d="M30 14v5" stroke="#59636E" stroke-width="1"/>
+<path d="M60 14v5" stroke="#59636E" stroke-width="1"/>
+<path d="M90 14v5" stroke="#59636E" stroke-width="1"/>
+<path d="M120 14v10" stroke="#59636E" stroke-width="1"/>
+<path d="M150 14v5" stroke="#59636E" stroke-width="1"/>
+<path d="M180 14v5" stroke="#59636E" stroke-width="1"/>
+<path d="M210 14v5" stroke="#59636E" stroke-width="1"/>
+<path d="M240 14v10" stroke="#59636E" stroke-width="1"/>
+<path d="M270 14v5" stroke="#59636E" stroke-width="1"/>
+<path d="M300 14v5" stroke="#59636E" stroke-width="1"/>
+<path d="M330 14v5" stroke="#59636E" stroke-width="1"/>
+<path d="M360 14v10" stroke="#59636E" stroke-width="1"/>
+<path d="M390 14v5" stroke="#59636E" stroke-width="1"/>
+<path d="M420 14v5" stroke="#59636E" stroke-width="1"/>
+<path d="M450 14v5" stroke="#59636E" stroke-width="1"/>
+<path d="M480 14v10" stroke="#59636E" stroke-width="1"/>
+<path d="M510 14v5" stroke="#59636E" stroke-width="1"/>
+<path d="M540 14v5" stroke="#59636E" stroke-width="1"/>
+<path d="M570 14v5" stroke="#59636E" stroke-width="1"/>
+<path d="M600 14v10" stroke="#59636E" stroke-width="1"/>
+<path d="M630 14v5" stroke="#59636E" stroke-width="1"/>
+<path d="M660 14v5" stroke="#59636E" stroke-width="1"/>
+<path d="M690 14v5" stroke="#59636E" stroke-width="1"/>
+<path d="M720 14v10" stroke="#59636E" stroke-width="1"/>
+<path d="M750 14v5" stroke="#59636E" stroke-width="1"/>
+<path d="M780 14v5" stroke="#59636E" stroke-width="1"/>
+<path d="M810 14v5" stroke="#59636E" stroke-width="1"/>
+<path d="M840 14v10" stroke="#59636E" stroke-width="1"/>
+<path d="M870 14v5" stroke="#59636E" stroke-width="1"/>
+<path d="M900 14v5" stroke="#59636E" stroke-width="1"/>
+<path d="M930 14v5" stroke="#59636E" stroke-width="1"/>
+<path d="M960 14v10" stroke="#59636E" stroke-width="1"/>
+<path d="M990 14v5" stroke="#59636E" stroke-width="1"/>
+<path d="M1020 14v5" stroke="#59636E" stroke-width="1"/>
+<path d="M1050 14v5" stroke="#59636E" stroke-width="1"/>
+<path d="M1080 14v10" stroke="#59636E" stroke-width="1"/>
+<path d="M1110 14v5" stroke="#59636E" stroke-width="1"/>
+<path d="M1140 14v5" stroke="#59636E" stroke-width="1"/>
+<path d="M1170 14v5" stroke="#59636E" stroke-width="1"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <text x="52" y="56" fill="#9DA7B3" font-size="14" font-weight="700" letter-spacing="1.8">ENGINEERING FLIGHT RECORDER / FELMONON / 2026.08</text>
+    <path d="M52 76H1148" stroke="#59636E" stroke-width="1"/>
+    <text x="52" y="123" fill="#F0F6FC" font-size="18" font-weight="700" letter-spacing="3">FELMON FEKADU</text>
+    <text x="52" y="194" fill="#F0F6FC" font-size="48" font-weight="800" letter-spacing="-1.8">I BUILD SOFTWARE</text>
+    <text x="52" y="250" fill="#3FB950" font-size="48" font-weight="800" letter-spacing="-1.8">THAT LEAVES EVIDENCE.</text>
+    <text x="52" y="305" fill="#F0F6FC" font-size="17">Developer tools and AI reliability systems</text>
+    <text x="52" y="333" fill="#9DA7B3" font-size="17">that expose hidden behavior, enforce deterministic</text>
+    <text x="52" y="361" fill="#9DA7B3" font-size="17">gates, and make regressions impossible to ignore.</text>
+    <g transform="translate(52 390)">
+      <rect width="95" height="32" fill="#111820" stroke="#59636E"/>
+      <text x="14" y="21" fill="#F0F6FC" font-size="13" font-weight="700" letter-spacing="0.7">DEVTOOLS</text>
+    </g>
+<g transform="translate(159 390)">
+      <rect width="169" height="32" fill="#132A1C" stroke="#3FB950"/>
+      <text x="14" y="21" fill="#3FB950" font-size="13" font-weight="700" letter-spacing="0.7">AGENT RELIABILITY</text>
+    </g>
+<g transform="translate(340 390)">
+      <rect width="186" height="32" fill="#111820" stroke="#59636E"/>
+      <text x="14" y="21" fill="#F0F6FC" font-size="13" font-weight="700" letter-spacing="0.7">PRODUCT ENGINEERING</text>
+    </g>
+
+    <path d="M718 96V434" stroke="#59636E" stroke-dasharray="4 7"/>
+    <text x="758" y="119" fill="#3FB950" font-size="14" font-weight="700" letter-spacing="1.8">SIGNAL ACQUIRED</text>
+    <text x="1148" y="119" fill="#9DA7B3" font-size="12" text-anchor="end">TRACE / ACTIVE</text>
+    <path d="M770 178H1070" stroke="#59636E" stroke-width="2"/>
+    <circle cx="770" cy="178" r="9" fill="#111820" stroke="#59636E" stroke-width="2"/>
+<circle cx="870" cy="178" r="9" fill="#111820" stroke="#59636E" stroke-width="2"/>
+<circle cx="970" cy="178" r="9" fill="#132A1C" stroke="#3FB950" stroke-width="2"/>
+<circle cx="1070" cy="178" r="9" fill="#111820" stroke="#59636E" stroke-width="2"/>
+    <circle class="signal-pulse" cx="770" cy="178" r="5" fill="#3FB950"/>
+    <text x="770" y="215" fill="#F0F6FC" font-size="12" font-weight="700" text-anchor="middle" letter-spacing="0.8">INPUT</text>
+<text x="870" y="215" fill="#F0F6FC" font-size="12" font-weight="700" text-anchor="middle" letter-spacing="0.8">OBSERVE</text>
+<text x="970" y="215" fill="#3FB950" font-size="12" font-weight="700" text-anchor="middle" letter-spacing="0.8">VERIFY</text>
+<text x="1070" y="215" fill="#F0F6FC" font-size="12" font-weight="700" text-anchor="middle" letter-spacing="0.8">SHIP</text>
+
+    <path class="policy-gate" d="M970 187V271H1114" fill="none" stroke="#E3A22B" stroke-width="2" stroke-dasharray="6 5"/>
+    <rect x="948" y="257" width="200" height="42" fill="#34250B" stroke="#E3A22B"/>
+    <text x="1048" y="283" fill="#E3A22B" font-size="13" font-weight="800" text-anchor="middle" letter-spacing="1.2">REGRESSION / BLOCKED</text>
+
+    <text x="758" y="337" fill="#9DA7B3" font-size="12" letter-spacing="1.4">POLICY GATE / EVIDENCE ATTACHED</text>
+    <text x="758" y="371" fill="#3FB950" font-size="14" font-weight="700">[PASS]</text>
+    <text x="824" y="371" fill="#F0F6FC" font-size="14">schema contract</text>
+    <text x="758" y="399" fill="#3FB950" font-size="14" font-weight="700">[PASS]</text>
+    <text x="824" y="399" fill="#F0F6FC" font-size="14">latency + cost budget</text>
+    <text x="758" y="427" fill="#E3A22B" font-size="14" font-weight="700">[STOP]</text>
+    <text x="824" y="427" fill="#F0F6FC" font-size="14">baseline delta</text>
+  </g>
+</svg>

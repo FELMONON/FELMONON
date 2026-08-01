@@ -1,0 +1,130 @@
+{
+  "version": 1,
+  "verifiedAt": "2026-08-01",
+  "identity": {
+    "name": "Felmon Fekadu",
+    "handle": "felmonon",
+    "location": "Calgary, Canada",
+    "positioning": "Developer tools and applied AI reliability"
+  },
+  "hero": {
+    "eyebrow": "ENGINEERING FLIGHT RECORDER / FELMONON / 2026.08",
+    "name": "FELMON FEKADU",
+    "headline": [
+      "I BUILD SOFTWARE",
+      "THAT LEAVES EVIDENCE."
+    ],
+    "summary": [
+      "Developer tools and AI reliability systems",
+      "that expose hidden behavior, enforce deterministic",
+      "gates, and make regressions impossible to ignore."
+    ],
+    "disciplines": [
+      "DEVTOOLS",
+      "AGENT RELIABILITY",
+      "PRODUCT ENGINEERING"
+    ]
+  },
+  "trace": [
+    {
+      "time": "00:00",
+      "stage": "INPUT",
+      "detail": "ambiguous behavior",
+      "state": "neutral"
+    },
+    {
+      "time": "00:01",
+      "stage": "OBSERVE",
+      "detail": "import the trace",
+      "state": "pass"
+    },
+    {
+      "time": "00:02",
+      "stage": "VERIFY",
+      "detail": "schema · budget · safety",
+      "state": "pass"
+    },
+    {
+      "time": "00:03",
+      "stage": "COMPARE",
+      "detail": "candidate ↔ baseline",
+      "state": "pass"
+    },
+    {
+      "time": "00:04",
+      "stage": "DECISION",
+      "detail": "regression blocked",
+      "state": "block"
+    },
+    {
+      "time": "00:05",
+      "stage": "ARTIFACT",
+      "detail": "reproducible report",
+      "state": "pass"
+    }
+  ],
+  "projects": [
+    {
+      "failureMode": "Mock drift",
+      "name": "msw-inspector",
+      "url": "https://github.com/felmonon/msw-inspector",
+      "evidence": "Coverage report + CI gate"
+    },
+    {
+      "failureMode": "Agent trajectory regression",
+      "name": "agent-reliability-harness",
+      "url": "https://github.com/felmonon/agent-reliability-harness",
+      "evidence": "Policy findings + baseline diff"
+    },
+    {
+      "failureMode": "Retrieval without evidence",
+      "name": "docagent-studio",
+      "url": "https://github.com/felmonon/docagent-studio",
+      "evidence": "Citations + offline evaluation"
+    },
+    {
+      "failureMode": "Opaque coding-agent quality",
+      "name": "agent-fight-club",
+      "url": "https://github.com/felmonon/agent-fight-club",
+      "evidence": "Scored, replayable bouts"
+    },
+    {
+      "failureMode": "Unproven product assumptions",
+      "name": "TypeJung",
+      "url": "https://typejung.com",
+      "evidence": "A live, paid user journey"
+    }
+  ],
+  "proof": [
+    {
+      "record": "PACKAGE / NPM",
+      "label": "msw-inspector-cli v0.3.2",
+      "url": "https://www.npmjs.com/package/msw-inspector-cli"
+    },
+    {
+      "record": "PACKAGE / PYPI",
+      "label": "agent-reliability-harness v0.2.2",
+      "url": "https://pypi.org/project/agent-reliability-harness/"
+    },
+    {
+      "record": "UPSTREAM",
+      "label": "14 merged pull requests across 7 repositories / 5 organizations",
+      "url": "https://github.com/search?q=author%3Afelmonon+is%3Apr+is%3Amerged+-user%3Afelmonon&type=pullrequests"
+    },
+    {
+      "record": "COMMUNITY",
+      "label": "5 outside human contributors in msw-inspector",
+      "url": "https://github.com/felmonon/msw-inspector/graphs/contributors"
+    },
+    {
+      "record": "PRODUCT",
+      "label": "TypeJung, a live full-stack paid product",
+      "url": "https://typejung.com"
+    },
+    {
+      "record": "WRITING",
+      "label": "Deterministic checks beat model-judged evals in CI",
+      "url": "https://felmon.tech/writing/deterministic-checks-for-agent-evals"
+    }
+  ]
+}
